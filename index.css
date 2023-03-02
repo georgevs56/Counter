@@ -1,0 +1,59 @@
+.container
+
+{
+    position: relative;
+    margin: none;
+    padding: none;
+    border: none;
+    top:150px;
+    left:150px;
+    font-family: monospace;
+
+}
+#value
+{
+    font-size: 200px;
+}
+.decrease
+
+{
+    margin: none;
+    border: none;
+   
+    border-radius: 5px;
+    background-color: white;
+    height: 25px;
+    border: 2px solid black;
+    width: 100px;   
+}
+.reset
+{
+    margin: none;
+    border: none;
+   
+    border-radius: 5px;
+    background-color: white;
+    height: 25px;
+    border: 2px solid black;
+    width: 100px; 
+}
+
+.increase
+
+{
+    margin: none;
+    border: none;
+   
+    border-radius: 5px;
+    background-color: white;
+    height: 25px;
+    border: 2px solid black;
+    width: 100px; 
+}
+.button-container
+{
+    position: relative;
+    left: -92px;
+}
+
+
